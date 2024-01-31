@@ -9,7 +9,7 @@
     ".github": true,
     ".gitignore": true,
     ".vscode": true,
-    "Dockerfile": true,
+    "Dockerfile": false,
     "LICENSE": true,
     "requirements.txt": true,
     "venv": true
